@@ -1,0 +1,7 @@
+open terminal and navigate to this directory and run the install_deps.sh file
+"bash ./install_deps.sh"
+to launch the project open terminal and navigate to this directory then type
+"ipython notebook"
+it will open the firefox browser at this directory just click on the file "Neural-Networks Project"
+
+after you finish coding you save and go back to the terminal and press "Ctrl+C" it will ask you if you want to shutdown the notebook server enter "y" and that's it
